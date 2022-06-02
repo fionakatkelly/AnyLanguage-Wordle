@@ -10,7 +10,7 @@ export const VALIDGUESSES = [
   'tiriti',
   'pipiri',
   'kumara',
-  'whenua,
+  'whenua',
   'pākehā',
   'rongoā',
   'kōrero',
