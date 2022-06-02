@@ -1,7 +1,7 @@
 import { CONFIG } from './config'
 
 export const VALIDGUESSES = [
- 'wahine',
+  'wahine',
   'maunga',
   'aotearoa',
   'whanau',
