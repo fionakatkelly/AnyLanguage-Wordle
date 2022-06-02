@@ -5,7 +5,6 @@ export const VALIDGUESSES = [
   'maunga',
   'aotearoa',
   'whanau',
-  'waita',
   'tikanga',
   'tiriti',
   'pipiri',
