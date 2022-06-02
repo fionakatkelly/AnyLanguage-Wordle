@@ -10,7 +10,7 @@ export const WORDS = [
   'tiriti',
   'pipiri',
   'kumara',
-  'whenua,
+  'whenua',
   'pākehā',
   'rongoā',
   'kōrero',
