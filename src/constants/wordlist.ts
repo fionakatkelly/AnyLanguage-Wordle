@@ -5,7 +5,6 @@ export const WORDS = [
   'maunga',
   'aotearoa',
   'whanau',
-  'waita',
   'tikanga',
   'tiriti',
   'pipiri',
