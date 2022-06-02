@@ -39,6 +39,7 @@ export const ORTHOGRAPHY = [
   'rā',
   's',
   't',
+  'te',
   'u',
   'ū',
   'v',
